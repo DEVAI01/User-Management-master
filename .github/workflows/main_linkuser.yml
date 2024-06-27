@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'linkuser'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1F55EED411BD4752B07F3CCE7E217EDA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87D9E26388434EF98E0ECB1ED1368224 }}
