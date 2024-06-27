@@ -1,0 +1,10 @@
+asgiref
+crispy-bootstrap5
+Django
+django-crispy-forms
+Pillow
+psycopg2
+sqlparse
+tzdata
+gunicorn
+tools
