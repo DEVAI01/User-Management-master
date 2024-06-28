@@ -8,5 +8,5 @@ sqlparse
 tzdata
 gunicorn
 tools
-user_management
+
 
