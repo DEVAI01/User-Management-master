@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 
     # External Apps
     'users',
-
+    'user_management'
     # Third Party Apps
     'crispy_forms',
     'crispy_bootstrap5',
