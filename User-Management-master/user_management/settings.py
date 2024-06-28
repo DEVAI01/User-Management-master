@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 
     # External Apps
     'users',
-    'user_management'
+    'user_management',
     # Third Party Apps
     'crispy_forms',
     'crispy_bootstrap5',
@@ -57,7 +57,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'users.urls'
+ROOT_URLCONF = 'user_management.urls'
 
 TEMPLATES = [
     {
@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'users.wsgi.application'
+WSGI_APPLICATION = 'user_management.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
